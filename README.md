@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on eCPPT for now. Eventually, I will also need to develop scripts with python and possible write tools in C or C++.
 - 📫 How to reach me @ discord irboi746
 
-[![irboi746 GitHub stats](https://github-readme-stats.vercel.app/api?username=irboi746&count_private=true)]
+![irboi746 GitHub stats](https://github-readme-stats.vercel.app/api?username=irboi746&count_private=true)
 
 
 <!---
