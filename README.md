@@ -5,7 +5,7 @@
 - 📫 How to reach me @ discord irboi746
 
 ![irboi746 GitHub stats](https://github-readme-stats.vercel.app/api?username=irboi746&count_private=true)
-![irboi746 GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irboi746)
+![irboi746 GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irboi746&count_private=true)
 
 <!---
 irboi746/irboi746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
