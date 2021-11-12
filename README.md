@@ -7,7 +7,7 @@
 ![irboi746 GitHub stats](https://github-readme-stats.vercel.app/api?username=irboi746&count_private=true)
 
 <!---
-![irboi746 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irboi746&count_private=true)
+![irboi746 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irboi746&layout=compact&theme=buefy&hide_border=true)
 --->
 
 <!---
