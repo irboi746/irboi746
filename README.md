@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irboi746
 - 👀 I’m interested in many aspects of IT and focused on security. 
-- 🥇 eJPT | eCPPT
+- 🥇 eJPT | eCPPT | OSCP
 - 🌱 I’m currently learning the ropes for Digital Forensics and Malware Analysis and Reverse Engineering.
 - 📖 [Blue Team Stuff](https://irboi746.gitbook.io/blue-team-stuff/) & [Pentest Notes](https://irboi746.gitbook.io/pentest-notes/)
 - 💞️ I’m looking to collaborate on OSCP, CCNA and eCMAP for now. Eventually, I will also develop scripts with python and possibly write tools in C or C++.
