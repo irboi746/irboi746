@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @irboi746
 - 👀 I’m interested in many aspects of IT and focused on security. 
-- 🥇 eJPT | eCPPT | eCMAP | OSCP | OSWE
+- 🥇 Certificates : eJPT | eCPPT | eCMAP | OSCP | OSWE
+- 🥇 Hackathon : Govtech - Stack the Code (2nd Place) | CloudHacks (AI Track - 1st Place)
 - 🌱 I’m currently learning the ropes for Web Application Pentest and self-learning Malware Analysis and Reverse Engineering.
 - 💞️ I’m looking to collaborate on OSEP and OSED. Eventually, I am also currently designign and developing a Burp Extension. Stay Tuned!
 - 📫 How to reach me @ discord irboi746
