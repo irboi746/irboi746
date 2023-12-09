@@ -3,7 +3,7 @@
 - 🥇 Certificates : eJPT | eCPPT | eCMAP | OSCP | OSWE
 - 🥇 Hackathon : Govtech - Stack the Code (2nd Place) | CloudHacks (AI Track - 1st Place)
 - 🌱 I’m currently learning the ropes for Web Application Pentest and self-learning Malware Analysis and Reverse Engineering.
-- 💞️ I’m looking to collaborate on OSEP and OSED. Eventually, I am also currently designign and developing a Burp Extension. Stay Tuned!
+- 💞️ I’m looking to collaborate on OSEP and OSED. Eventually, I am also currently designing and developing a Burp Extension. Stay Tuned!
 - 📫 How to reach me @ discord irboi746
 
 ![irboi746 GitHub stats](https://github-readme-stats.vercel.app/api?username=irboi746&count_private=true)
