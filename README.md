@@ -2,7 +2,7 @@
 - 👀 I’m interested in many aspects of IT and focused on security. 
 - 🥇 Certificates : eJPT | eCPPT | eCMAP | OSCP | OSWP  | OSWA | OSCC | OSWE | OSEP | OSED
 - 🥇 Hackathon : Govtech - Stack the Code (2nd Place) | CloudHacks (AI Track - 1st Place)
-- 🌱 I’m currently learning the ropes for Web Application Pentest and self-learning Malware Analysis and Reverse Engineering.
+- 🌱 I’m currently learning the ropes for DevSecOps related topics and self-learning Malware Analysis and Reverse Engineering.
 - 💞️ I’m looking to collaborate on CKA, CKAD, KCSA & CKS. Burp Extension development put on pause for the time being.
 - 📫 How to reach me @ discord irboi746
 
